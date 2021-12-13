@@ -25,8 +25,8 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
-    author: ''
+    publication_type: '2'
+    author: 'Ziyin P Zhao'
     exclude_featured: true
 design:
   # Choose a view for the listings:
